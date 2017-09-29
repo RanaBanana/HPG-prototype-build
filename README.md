@@ -9,3 +9,5 @@ http://rapidtables.com/calc/electric/watt-volt-amp-calculator.htm
 
 Onderdelen kopen bij Rotor
 http://www.rotor.eu/indexzoek.php
+
+http://www.instructables.com/id/Controlling-High-Power-Circuits-with-Arduino-and-D/
